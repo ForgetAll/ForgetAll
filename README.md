@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning golang
 - 📫 How to reach me: xiasuhuei321@gmail.com
 - fans of vim
 
